@@ -1,3 +1,17 @@
+'''
+* input
+bacd
+* output
+push
+push
+pop
+pop
+push
+pop
+push
+pop
+'''
+
 string = input()
 ln = len(string)
 inputs = list(string)
