@@ -1,3 +1,10 @@
+'''
+nn단표
+input
+3
+7
+output: 6
+'''
 num, = map(int, input().split())
 k, = map(int, input().split())
 
