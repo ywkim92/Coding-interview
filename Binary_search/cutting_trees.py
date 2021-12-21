@@ -1,3 +1,10 @@
+'''
+나무 자르기
+input
+4 7
+20 15 10 17
+output: 15
+'''
 num, m = map(int, input().split())
 array = list(map(int, input().split()))
 
