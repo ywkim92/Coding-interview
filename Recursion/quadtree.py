@@ -8,7 +8,7 @@ output
 import numpy as np
 count = [0,0]
 def solution(arr):
-    array1 = np.array(arr, dtype=int)
+    array1 = np.array(arr, dtype=np.int64)
     global count
     def sol(array, ):
         n = len(array)//2
