@@ -1,5 +1,5 @@
 '''
-괄호 검사
+괄호의 값(https://www.acmicpc.net/problem/2504)
 intput: (()[[]])([])
 output: 28
 input: (()()[]
