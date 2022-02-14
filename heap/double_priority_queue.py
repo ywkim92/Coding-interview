@@ -1,5 +1,6 @@
 '''
 이중우선순위큐(https://programmers.co.kr/learn/courses/30/lessons/42628)
+reference(http://icpckorea.org/problems/2013/onlineset.pdf)
 '''
 import heapq
 def solution(operations):
