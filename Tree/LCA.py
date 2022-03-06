@@ -1,3 +1,7 @@
+'''
+LCA(Lowest Common Ancestor)
+트리에서 공통 조상 찾기
+'''
 # num: the number of nodes
 # x, y: two nodes that need to find the lowest common ancestor
 num, x, y = map(int, input().split())
